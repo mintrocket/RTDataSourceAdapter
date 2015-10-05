@@ -1,6 +1,8 @@
 # RTDataSourceAdapter
 RTDataSourceAdapter is a library that simplifies work with the UITableView controls.
 
+<img src="https://raw.githubusercontent.com/RTILab/RTDataSourceAdapter/master/images/RTDataSourceAdapter.gif">"
+
 # Usage
 ##### In your Controller
 ```objective-c
