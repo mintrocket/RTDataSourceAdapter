@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.platform     = :ios, "8.0"
 
-  s.source       = { :git => "https://github.com/RTILab/RTDataSourceAdapter.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/RTILab/RTDataSourceAdapter.git", :branch => "master", :tag => s.version.to_s }
 
   s.source_files  = "src/RTDataSourceAdapter"
 
